@@ -1,3 +1,14 @@
+This repository has been created to keep track of development of Hi, Jack! gnome-shell extension. I'm not the author of the extension, so all credit goes to luciangabor who wrote this code.
+Please signal me if there are changes in upstream extension not reported here. You should find latest source available in review page: https://extensions.gnome.org/review/3152
+You should install this extension from https://extensions.gnome.org/extension/645/hi-jack/
+
+The reason I created this repository is that this way the project, that I find useful, can survive original developer possible lack of time in the future. The author told me that he doesn't plan to create a repository, so I've decided to go by myself.
+
+If you are luciangabor and you change your mind about publishing to a repository, I will be pleased to give you ownership of this one.
+Anyone else wanting to contribute is welcome to fork and send pull requests; if I think they are useful and well-coded I will merge them and make efforts to contact the owner of the extension on extensions.gnome.org to have it deployed.
+
+Extension Description
+
 Hijacks the bottom of the (bottom, if there is such a thing) monitor.
 The bottom right corner (and only the corner) toggles the message tray.
 The bottom left corner executes, if enabled, a configured command.
