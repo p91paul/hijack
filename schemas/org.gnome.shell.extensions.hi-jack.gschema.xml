@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions-hi-jack">
+  <schema path="/org/gnome/shell/extensions/hi-jack/"
+          id="org.gnome.shell.extensions.hi-jack">
+    <key name="enabled" type="b">
+        <default>false</default>
+      <summary>Enable bottom left corner.</summary>
+      <description>Enable bottom left corner.</description>
+    </key>
+    <key name="command" type="s">
+        <default>'xte "keydown Super_L" "key D" "keyup Super_L"'</default>
+      <summary>The command to execute when hitting the bottom left corner.</summary>
+      <description>The command to execute when hitting the bottom left corner.</description>
+    </key>
+  </schema>
+</schemalist>
