@@ -5,7 +5,8 @@
   "settings-schema": "org.gnome.shell.extensions.hi-jack", 
   "shell-version": [
     "3.6", 
-    "3.8"
+    "3.8",
+    "3.10"
   ], 
   "url": "", 
   "uuid": "hi-jack", 
